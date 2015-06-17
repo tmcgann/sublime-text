@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"Color Highlighter",
+		"Emmet",
+		"JavaScriptNext - ES6 Syntax",
+		"Package Control",
+		"PackageResourceViewer",
+		"PowerShell",
+		"Schemr",
+		"Seti_UI",
+		"Themr",
+		"VBDotNet",
+		"VBScript"
+	]
+}
