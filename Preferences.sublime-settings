@@ -15,6 +15,7 @@
 		".Spotlight-V100",
 		".Trashes"
 	],
+	"find_selected_text": true,
 	"folder_exclude_patterns":
 	[
 		".git",
